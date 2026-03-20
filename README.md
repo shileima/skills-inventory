@@ -332,4 +332,4 @@ brew install bash
 
 **开始管理你的技能吧！** 🚀
 
-Made with ❤️ by 小美助手
+Made with ❤️ by mashilei
