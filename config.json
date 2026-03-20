@@ -1,0 +1,109 @@
+{
+  "skillsDirectories": {
+    "claude-code": {
+      "name": "Claude Code",
+      "paths": [
+        "~/.claude/skills"
+      ],
+      "icon": "📦",
+      "description": "官方 Claude Code CLI 工具",
+      "canDelete": true
+    },
+    "qa-cowork-hot": {
+      "name": "QA-Cowork (hot-update)",
+      "paths": [
+        "~/.qa-cowork/hot-update/resources/skills"
+      ],
+      "icon": "🔥",
+      "description": "小美搭档热更新技能",
+      "canDelete": true
+    },
+    "qa-cowork-main": {
+      "name": "QA-Cowork (main)",
+      "paths": [
+        "~/.qa-cowork/skills"
+      ],
+      "icon": "💼",
+      "description": "小美搭档主要技能",
+      "canDelete": true
+    },
+    "cursor": {
+      "name": "Cursor",
+      "paths": [
+        "~/.cursor/skills"
+      ],
+      "icon": "✏️",
+      "description": "Cursor 编辑器自定义技能",
+      "canDelete": true
+    },
+    "cursor-gitlens": {
+      "name": "Cursor GitLens",
+      "paths": [
+        "~/.cursor/extensions/*/​.claude/skills"
+      ],
+      "icon": "🔧",
+      "description": "Cursor GitLens 内置技能",
+      "canDelete": false
+    },
+    "clawdbot": {
+      "name": "ClawdBot",
+      "paths": [
+        "~/.nvm/versions/node/*/lib/node_modules/clawdbot/skills"
+      ],
+      "icon": "🤖",
+      "description": "ClawdBot 服务集成技能",
+      "canDelete": true
+    },
+    "trae": {
+      "name": "Trae",
+      "paths": [
+        "~/.trae/extensions/*/​.claude/skills",
+        "~/.trae/extensions/*/​.github/skills"
+      ],
+      "icon": "🎯",
+      "description": "Trae 编辑器技能",
+      "canDelete": false
+    },
+    "trae-cn": {
+      "name": "Trae-CN",
+      "paths": [
+        "~/.trae-cn/skills"
+      ],
+      "icon": "🇨🇳",
+      "description": "Trae 中文版技能",
+      "canDelete": true
+    },
+    "agents": {
+      "name": ".agents",
+      "paths": [
+        "~/.agents/skills"
+      ],
+      "icon": "🔮",
+      "description": "Agent 系统核心技能",
+      "canDelete": true
+    },
+    "openclaw-home": {
+      "name": "OpenClaw (home)",
+      "paths": [
+        "~/.openclaw/skills"
+      ],
+      "icon": "🦞",
+      "description": "OpenClaw 主目录技能",
+      "canDelete": true
+    },
+    "openclaw-app": {
+      "name": "OpenClaw (app)",
+      "paths": [
+        "~/Library/Application Support/automan-desktop/openclaw/.openclaw/skills"
+      ],
+      "icon": "📱",
+      "description": "OpenClaw 应用程序技能",
+      "canDelete": true
+    }
+  },
+  "backupDirectory": "~/.trash/skills",
+  "searchPatterns": [
+    "*/SKILL.md",
+    "*/skill.md"
+  ]
+}

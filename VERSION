@@ -1,0 +1,13 @@
+1.0.0
+Release Date: 2026-03-20
+Author: 小美助手
+
+Changelog:
+- v1.0.0 (2026-03-20)
+  * 首次发布
+  * 支持列出所有技能
+  * 支持搜索技能
+  * 支持打开技能查看
+  * 支持删除技能（带备份）
+  * 支持 9 种客户端（Claude Code, QA-Cowork, Cursor, ClawdBot, Trae-CN, .agents, OpenClaw）
+  * 总共支持 233+ 个 skills 的管理
