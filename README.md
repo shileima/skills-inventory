@@ -11,7 +11,6 @@
 **Skills Inventory** 是一个强大的技能仓库管理器，可以统一管理本地所有类 Claude Code 客户端的 skills，包括：
 
 - 🤖 **Claude Code** - Anthropic 官方 CLI
-- 💼 **QA-Cowork** (小美搭档) - 美团内部工具
 - 🦞 **OpenClaw** - 开源 AI 助手
 - ✏️ **Cursor** - AI 代码编辑器
 - 🤖 **ClawdBot** - 服务集成工具
@@ -312,9 +311,6 @@ brew install bash
 
 本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情
 
-## 👥 作者
-
-**小美助手** - 美团 QA AI 团队
 
 ## 🙏 致谢
 
@@ -322,7 +318,6 @@ brew install bash
 
 - [Claude Code](https://www.anthropic.com) - Anthropic 官方 CLI
 - [OpenClaw](https://github.com/openclaw) - 开源 AI 助手
-- 美团 QA-Cowork (小美搭档) - 内部工具
 
 ## ⭐ Star History
 
