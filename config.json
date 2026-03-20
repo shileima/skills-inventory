@@ -15,7 +15,7 @@
         "~/.qa-cowork/hot-update/resources/skills"
       ],
       "icon": "🔥",
-      "description": "小美搭档热更新技能",
+      "description": "热更新技能",
       "canDelete": true
     },
     "qa-cowork-main": {
@@ -24,7 +24,7 @@
         "~/.qa-cowork/skills"
       ],
       "icon": "💼",
-      "description": "小美搭档主要技能",
+      "description": "主要技能",
       "canDelete": true
     },
     "cursor": {
