@@ -20,7 +20,7 @@
 
 统一管理本地所有类 Claude Code 客户端的 skills，包括：
 - Claude Code
-- QA-Cowork (小美搭档)
+- QA-Cowork
 - OpenClaw
 - Cursor
 - ClawdBot
@@ -68,7 +68,7 @@ SKILL_DIRS_VALUES=(...)    # 对应的目录路径数组
 name: skills-inventory
 description: 管理本地所有 Claude Code 类客户端的 skills
 version: 1.0.0
-author: 小美助手
+author: shileima
 tags: [skills, management, claude-code]
 ---
 
@@ -303,16 +303,12 @@ esac
 
 MIT License
 
-## 👥 作者
-
-**小美助手** - 美团 QA AI 团队
-
 ## 🙏 致谢
 
 感谢以下项目和工具：
 - Claude Code - Anthropic 官方 CLI
 - OpenClaw - 开源 AI 助手
-- QA-Cowork (小美搭档) - 美团内部工具
+- QA-Cowork 
 
 ---
 
