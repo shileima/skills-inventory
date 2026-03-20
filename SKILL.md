@@ -2,7 +2,6 @@
 name: skills-inventory
 description: 管理本地所有 Claude Code 类客户端的 skills，支持查看、搜索、打开和删除技能
 version: 1.0.0
-author: 小美助手
 tags: [skills, management, claude-code, openclaw, qa-cowork]
 ---
 
@@ -77,7 +76,7 @@ tags: [skills, management, claude-code, openclaw, qa-cowork]
 # Claude Code
 ~/.claude/skills/
 
-# QA-Cowork (小美搭档)
+# QA-Cowork
 ~/.qa-cowork/hot-update/resources/skills/
 ~/.qa-cowork/skills/
 
