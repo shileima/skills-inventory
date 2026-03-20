@@ -50,8 +50,6 @@
 | 客户端 | 目录 | 说明 |
 |--------|------|------|
 | Claude Code | `~/.claude/skills/` | 官方 CLI 工具 |
-| QA-Cowork (hot) | `~/.qa-cowork/hot-update/resources/skills/` | 小美搭档热更新 |
-| QA-Cowork (main) | `~/.qa-cowork/skills/` | 小美搭档主要技能 |
 | Cursor | `~/.cursor/skills/` | Cursor 编辑器 |
 | ClawdBot | `~/.nvm/.../clawdbot/skills/` | ClawdBot 服务集成 |
 | Trae-CN | `~/.trae-cn/skills/` | Trae 中文版 |
@@ -196,6 +194,5 @@ MIT License
 
 ---
 
-**作者**: 小美助手
 **版本**: 1.0.0
 **更新时间**: 2026-03-20
